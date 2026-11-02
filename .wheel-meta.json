@@ -1,0 +1,22 @@
+{
+  "wheel_id": 672,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernearme-153",
+  "project": "home-loan-brokers-brisbane-investment-d9741cb5eb1c9842ddcae5681",
+  "parent_t1_ref": "homeloanbrokernearme-011",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokernearme.com.au",
+  "primary_kw": "home loan brokers brisbane investment",
+  "intended_url": "https://sites-e470-2.web.app/home-loan-brokers-brisbane-investment-d9741cb5eb1c9842ddcae5681/",
+  "tier": "T2",
+  "writeback_nonce": "be05231edd596815",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/home-loan-brokers-brisbane-homeloanbrokernearme-011/",
+      "anchor": "a guide to home loan brokers brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
